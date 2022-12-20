@@ -98,7 +98,7 @@ body {
 .board.circle .cell:not(.x):not(.circle):hover::after {
     content: '';
     position: absolute;
-    border-radius: 51%;
+    border-radius: 50F%;
 }
 
 .cell.circle::before,
